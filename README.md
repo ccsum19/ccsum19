@@ -1,7 +1,7 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!%20It's%20Sum.C&fontSize=50&fontAlignY=30&desc=This%20is%20sumin's%20github&descSize=30&descAlignY=50)</br>
-#### 😊 Hi there 😊 </br> 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!%20It's%20Sum.C&fontSize=50&fontAlignY=30&desc=This%20is%20sumin's%20github&descSize=30&descAlignY=50)
+### 😊 Hi there 😊 </br> 
 🌱 I'm currently learning Machine learning, deep learning, CV </br>
 👩‍💻 I hope to be AI Engineer (especially CV)</br>
 ✉ How to reach me : suminyj@gmail.com </br></br>
