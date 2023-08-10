@@ -3,9 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!%20It's%20Sum.C&fontSize=50&fontAlignY=30&desc=This%20is%20sumin's%20github&descSize=30&descAlignY=50)
 ### 😊 Hi there 😊 </br> 
 🌱 I'm currently learning Machine learning, deep learning, CV </br>
-👩‍💻 I hope to be AI Engineer (especially CV)</br>
-✉ How to reach me : suminyj@gmail.com </br></br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccsum19&hide_progress=true)
+👩‍💻 I hope to be AI Engineer (especially CV)</br></br>
+✉ How to reach me : <a href="mailto:leegm17@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=suminyj@gmail.com"/></a> </br></br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccsum19&hide_progress=true)  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sumc00)](https://velog.io/@sumc00)
 ## 💻 Once I've used 💻 
  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="pytorch" src ="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>  <img alt="tensorflow" src ="https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/> 
  </br>
