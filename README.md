@@ -20,6 +20,4 @@
 <img alt="notion" src ="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/> 
 <img alt="slack" src ="https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=notion&logoColor=white"/> 
 </br></br>
-[![Solved.ac
-sum_c](http://mazassumnida.wtf/api/generate_badge?boj=sum_c)](https://solved.ac/sum_c)
 </div>
