@@ -1,7 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!%20It's%20Sum.C&fontSize=50&fontAlignY=30&desc=This%20is%20sumin's%20github&descSize=30&descAlignY=50)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey!%20I'm%20Sum.C%20🧊&fontSize=50&fontAlignY=30&desc=Building%203D%20Dreams%20with%20ML&descSize=30&descAlignY=50)
 ### 😊 Hi there 😊 
 
 🔬 I'm a machine learning researcher focusing on 3D generation and editing  
