@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0c0f1a,100:7dd3fc&height=180&section=header&text=Sumin%20Cho&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Vision%20%26%20Graphics%20%7C%20KAIST%20VML&descSize=18&descAlignY=62&descColor=b0c8e0)
-
 <div align="center">
 
 ## 👋 Hi, I'm Sumin
