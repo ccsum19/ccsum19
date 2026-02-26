@@ -1,26 +1,48 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0c0f1a,100:7dd3fc&height=180&section=header&text=Sumin%20Cho&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Vision%20%26%20Graphics%20%7C%20KAIST%20VML&descSize=18&descAlignY=62&descColor=b0c8e0)
+
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey!%20I'm%20Sum.C%20🧊&fontSize=50&fontAlignY=30&desc=Building%203D%20Dreams%20with%20ML&descSize=30&descAlignY=50)
-### 😊 Hi there 😊 
 
-🔬 I'm a machine learning researcher focusing on 3D generation and editing  
-🎨 Interested in 3D content creation, neural rendering, and generative models  
-👩‍💻 Exploring the intersection of AI and 3D computer vision
+## 👋 Hi, I'm Sumin
 
-✉ How to reach me: <a href="mailto:leegm17@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=suminyj@gmail.com"/></a>
+M.S. Candidate at **KAIST Visual Media Lab** (Prof. Junyong Noh)  
+Working at the intersection of **computer vision** and **computer graphics** —  
+controllable generative AI for 3D content, diffusion & flow models, 3D stylization and reconstruction.
 
-## 💻 Tech Stack 💻 
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="pytorch" src ="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/> <img alt="tensorflow" src ="https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/> 
+<br>
 
-<img alt="C" src ="https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/cpp-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/> <img alt="unity" src ="https://img.shields.io/badge/unity-FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=black"/>
+### 🌐 Personal Website
 
-<img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
+**→ Check out my research, publications, and projects:**
 
-<img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=black"/> <img alt="Figma" src ="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+[![Website](https://img.shields.io/badge/ccsum19.github.io-7dd3fc?style=for-the-badge&logo=github&logoColor=0c0f1a)](https://ccsum19.github.io/)
 
-## 📚 Tools & Collaboration 📚
-<a href="https://github.com/ccsum19"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a> 
-<img alt="notion" src="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/> 
-<img alt="slack" src="https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/> 
+<br>
+
+### 📬 Contact
+
+[![Email](https://img.shields.io/badge/sumincho@kaist.ac.kr-0c0f1a?style=for-the-badge&logo=gmail&logoColor=7dd3fc)](mailto:sumincho@kaist.ac.kr)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-0c0f1a?style=for-the-badge&logo=googlescholar&logoColor=7dd3fc)](https://scholar.google.co.kr/citations?user=Yc6zOJIAAAAJ)
+
+<br>
+
+---
+
+### 🔬 Research Interests
+
+`Controllable Generative AI` &nbsp; `Diffusion & Flow Models` &nbsp; `3D Stylization & Editing`  
+`3D Reconstruction` &nbsp; `Neural Rendering` &nbsp; `Video Generation`
+
+---
+
+### 🛠 Tech Stack
+
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img alt="Maya" src="https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge&logo=autodesk&logoColor=white"/>
+<img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/>
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0c0f1a&height=120&section=footer)
