@@ -42,5 +42,3 @@ controllable generative AI for 3D content, diffusion & flow models, 3D stylizati
 <img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/>
 
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0c0f1a&height=120&section=footer)
